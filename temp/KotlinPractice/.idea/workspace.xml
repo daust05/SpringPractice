@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c6de2391-fa1d-48b0-a519-cfc406bc8158" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../springJpa2/jpashop/jpashop/src/main/java/jpabook/jpashop/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springJpa2/jpashop/jpashop/src/main/java/jpabook/jpashop/api/MemberApiController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springJpa2/jpashop/jpashop/src/main/java/jpabook/jpashop/controller/BookForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springJpa2/jpashop/jpashop/src/main/java/jpabook/jpashop/controller/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springJpa2/jpashop/jpashop/src/main/java/jpabook/jpashop/controller/ItemController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springJpa2/jpashop/jpashop/src/main/java/jpabook/jpashop/controller/MemberController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springJpa2/jpashop/jpashop/src/main/java/jpabook/jpashop/controller/MemberForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springJpa2/jpashop/jpashop/src/main/java/jpabook/jpashop/controller/OrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springJpa2/jpashop/jpashop/src/main/java/jpabook/jpashop/domain/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springJpa2/jpashop/jpashop/src/main/java/jpabook/jpashop/domain/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springJpa2/jpashop/jpashop/src/main/java/jpabook/jpashop/domain/Delivery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springJpa2/jpashop/jpashop/src/main/java/jpabook/jpashop/domain/DeliveryStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springJpa2/jpashop/jpashop/src/main/java/jpabook/jpashop/domain/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springJpa2/jpashop/jpashop/src/main/java/jpabook/jpashop/domain/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springJpa2/jpashop/jpashop/src/main/java/jpabook/jpashop/domain/OrderItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springJpa2/jpashop/jpashop/src/main/java/jpabook/jpashop/domain/OrderStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springJpa2/jpashop/jpashop/src/main/java/jpabook/jpashop/domain/item/Album.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springJpa2/jpashop/jpashop/src/main/java/jpabook/jpashop/domain/item/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springJpa2/jpashop/jpashop/src/main/java/jpabook/jpashop/domain/item/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springJpa2/jpashop/jpashop/src/main/java/jpabook/jpashop/domain/item/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springJpa2/jpashop/jpashop/src/main/java/jpabook/jpashop/exception/NotEnoughStockException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springJpa2/jpashop/jpashop/src/main/java/jpabook/jpashop/repository/ItemRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springJpa2/jpashop/jpashop/src/main/java/jpabook/jpashop/repository/MemberRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springJpa2/jpashop/jpashop/src/main/java/jpabook/jpashop/repository/OrderRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springJpa2/jpashop/jpashop/src/main/java/jpabook/jpashop/repository/OrderSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springJpa2/jpashop/jpashop/src/main/java/jpabook/jpashop/service/ItemService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springJpa2/jpashop/jpashop/src/main/java/jpabook/jpashop/service/MemberService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springJpa2/jpashop/jpashop/src/main/java/jpabook/jpashop/service/OrderService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/main/java/test/temp/TempApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/main/java/test/temp/domain/Album.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/main/java/test/temp/domain/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/main/java/test/temp/domain/Item.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/main/java/test/temp/domain/Movie.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/test/java/test/temp/TempApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1xFv6VtUvdhITZyJN0pXaN78QM9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../KotlinPractice/KotlinPractice/build.gradle.kts" />
+  </component>
+  <component name="RunManager" selected="Kotlin.TestKt">
+    <configuration name="HelloKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HelloKt" />
+      <module name="KotlinPractice.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestKt" />
+      <module name="KotlinPractice.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.TestKt" />
+        <item itemvalue="Kotlin.HelloKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6de2391-fa1d-48b0-a519-cfc406bc8158" name="Changes" comment="" />
+      <created>1629963481452</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629963481452</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
